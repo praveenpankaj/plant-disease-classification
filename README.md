@@ -71,13 +71,16 @@ The model architecture consists of the following main components:
 
 *  The validation accuracy was about 0.9460
 * Sample Inferenced labels with ground truth labels
-   ![Inference Results](https://github.com/user-attachments/assets/5e10a595-a898-466c-97f9-4421f9071060)
+  ![Inferred Image Labels](https://github.com/user-attachments/assets/01354681-a3fb-454b-9e80-d2c380a26deb)
+
 
 * Sample Ground Truth Images and Labels
-  ![Ground Truth](https://github.com/user-attachments/assets/8f63f805-0df0-4280-9455-41c8bbec73b5)
+  ![Ground Truth Images](https://github.com/user-attachments/assets/a7db8f63-a87e-43fb-a20d-99d37253da83)
+
 and
 * The corresponding Saliency Maps
-  ![Saliency Map](https://github.com/user-attachments/assets/9b42ee27-d3de-46c9-a0cd-18680649f05d)
+ ![Salience Maps](https://github.com/user-attachments/assets/92053167-f25b-4740-84d6-d98d2d8b9897)
+
 
 ## Citation
 * If you implement or use the above code, please don't forget to give us a shout-out and cite us! We would love to know how this work is being used.
